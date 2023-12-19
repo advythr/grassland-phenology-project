@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/727367017.svg)](https://zenodo.org/doi/10.5281/zenodo.10403744)
+
 # Grassland Phenology Final Project
 Repository for Earth Analytics Fall 2023 Grassland Phenology final project, "Using remotely-sensed NDVI to understand temporal and spatial patterns of grassland brown-down in Boulder County, Colorado."
 
