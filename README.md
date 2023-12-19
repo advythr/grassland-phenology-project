@@ -1,5 +1,10 @@
-# grassland-phenology-project
+# Grassland Phenology Final Project
 Repository for Earth Analytics Fall 2023 Grassland Phenology final project, "Using remotely-sensed NDVI to understand temporal and spatial patterns of grassland brown-down in Boulder County, Colorado."
+
+## Contact
+Advyth Ramachandran (advyth.ramachandran@colorado.edu)
+
+PhD Student, Department of Ecology & Evolutionary Biology, University of Colorado, Boulder
 
 ## Project overview
 
@@ -8,7 +13,7 @@ This project was conducted as my Final Project for the Earth Analytics Bootcamp 
 
 ## How to run the code
 
-This code was developed in the Earth Analytics Development Environment which can be installed using the instructions found at this GitHub repository: https://github.com/earthlab/earth-analytics-python-env (DOI: 10.5281/zenodo.1311239). The notebook file requires Jupyter Lab to run.
+This code was developed in the Earth Analytics Development Environment which can be installed using the instructions found at this GitHub repository: https://github.com/earthlab/earth-analytics-python-env (DOI: 10.5281/zenodo.1311239). The notebook file requires Jupyter Notebook to run.
 
 There is only one notebook file for this project and cells must be run in order.
 
@@ -18,7 +23,7 @@ I thank Elsa Culler for extensive technical assistance and Katharine Suding for 
 
 ## Grading Rubric
 
-Modified from the Final Assignment rubric to match the work proposed in this final project.
+Modified from the Final Assignment rubric to match the work proposed in this final project. Modifications indicated in _italics_.
 
 
 |**Description**|**Maximum Points**|
@@ -39,10 +44,10 @@ Modified from the Final Assignment rubric to match the work proposed in this fin
 |Any functions have numpy-style docstrings|10|
 |The code makes use of conditionals to cache data and/or computations, making efficient use of computing resources|10|
 |The code contains a site map for the _vegetation community type data_|10|
-|The code downloads the _NDVI raster layer for each timestep_.|10|
+|The code downloads the _NDVI raster layer for each timestep_|10|
 |The code correctly _calculates the brown-down 10th percentile thresholds for each year_.|10|
 |The code harmonizes the _polygon/vector and raster data_|10|
-|For _each year and vegetation polygon, the brown-down date is calculated as a zonal mean of the brown-down date raster_.|10|
+|For _each year and vegetation polygon, the brown-down date is calculated as a zonal mean of the brown-down date raster_|10|
 |The code produces at least one (sub)figure displaying the results|10|
 |Any unfinished components have detailed pseudocode or a flow diagram explaining how they could be finished in the future, and or a complete bug report explaining the problem|up to 90 points, in place of other categories|
 |**WRITTEN ANALYSIS**|50|
