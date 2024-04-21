@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/727367017.svg)](https://zenodo.org/doi/10.5281/zenodo.10403744)
+
 # Grassland Phenology Final Project
 Repository for Earth Analytics Fall 2023 Grassland Phenology final project, "Using remotely-sensed NDVI to understand temporal and spatial patterns of grassland brown-down in Boulder County, Colorado."
 
@@ -45,7 +47,7 @@ Modified from the Final Assignment rubric to match the work proposed in this fin
 |The code makes use of conditionals to cache data and/or computations, making efficient use of computing resources|10|
 |The code contains a site map for the _vegetation community type data_|10|
 |The code downloads the _NDVI raster layer for each timestep_|10|
-|The code correctly _calculates the brown-down 10th percentile thresholds for each year_.|10|
+|The code correctly _calculates the brown-down 10th percentile thresholds for each year_|10|
 |The code harmonizes the _polygon/vector and raster data_|10|
 |For _each year and vegetation polygon, the brown-down date is calculated as a zonal mean of the brown-down date raster_|10|
 |The code produces at least one (sub)figure displaying the results|10|
@@ -54,5 +56,5 @@ Modified from the Final Assignment rubric to match the work proposed in this fin
 |The notebook contains a project description|10|
 |The notebook contains a researched site description|10|
 |The notebook contains a data description and citation for each data source|10|
-|The notebook contains a description of _how brown-down was calculated_.|10|
+|The notebook contains a description of _how brown-down was calculated_|10|
 |The notebook contains a headline and description for each figure|10|
